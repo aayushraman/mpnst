@@ -1,7 +1,7 @@
 # MPNST
 Code/scripts for the analysis of MPNST related datasets
 
--- Paper: Veena Kochat\*, AT Raman\* et al., 2021 (In revision)
+-- Paper: Veena Kochat\*, AT Raman\* et al., Acta Neuropathologica (2021)
 
 -- Dataset: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE141439 (currently private; will be made public soon). The GEO repository consists of all the fastq and processed files such as raw fastq (sequence files), raw counts table, list of differentially expressed genes (output from DESeq2) and bigWig/peak files (for IGV visualization).
 
